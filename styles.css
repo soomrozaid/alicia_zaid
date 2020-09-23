@@ -1,5 +1,6 @@
 h1 {
   text-align: center;
+  color: #3c2946;
 }
 
 figcaption {
@@ -10,13 +11,14 @@ figcaption {
   width: 80vw;
   text-align: left;
   margin: auto;
-  border: 1px solid red;
+  background-color: #bbd196
 }
 
 #img-div {
   width: 100vw;
   height: 90vh;
   text-align: center;
+  background-color: #ffd571;
 }
 
 img {
@@ -28,4 +30,12 @@ img {
 iframe {
     display: block;
     margin: auto;
+}
+
+body {
+    background-color: #ffd571;
+}
+
+h3 {
+    color: #3c2946;
 }
