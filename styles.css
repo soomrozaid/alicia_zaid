@@ -2,6 +2,17 @@ h1 {
   text-align: center;
 }
 
+figcaption {
+  font-size: 0.8rem;
+}
+
+#tribute-details {
+  width: 80vw;
+  text-align: left;
+  margin: auto;
+  border: 1px solid red;
+}
+
 #img-div {
   width: 100vw;
   height: 90vh;
@@ -9,7 +20,7 @@ h1 {
 }
 
 img {
-  max-width: 100%;
+  max-width: 80%;
   display: block;
   margin: auto;
 }
